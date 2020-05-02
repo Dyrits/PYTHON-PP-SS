@@ -1,4 +1,4 @@
-## PERSONAL PROJECTS > Sudoku Solver 
+## PERSONAL PROJECT > Sudoku Solver 
 The Sudoku Solver can be used to solve any grid.  
 The grid needs to be typed manually as a list of lists.  
 It is using a backtracking method, selecting the first valid option for every cell, and going to the next when. When a cell doesn't have any valid option, the program is going back to the previous cell, until a valid option is found (then go forward again).
