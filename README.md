@@ -10,7 +10,7 @@ I wanted to do it without using any external libraries, and didn't much about th
 The way I am naming the variables and functions is not very conventional, since I didn't know about that neither.
 
 ##### Update (02/05/2020)
-This project has been reworked in a new version to be a lot more efficient and a lot more pythonic.
+This project has been reworked in a new version to be a lot more efficient and a lot more pythonic. Checkout the master branch for the new version.
 
-### Status:  
+### Status
 Finished 
