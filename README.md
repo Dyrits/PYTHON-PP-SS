@@ -23,7 +23,7 @@ This project has been reworked in a new version to be a lot more efficient and a
 Completed
 
 #### Last update
-02/05/2020
+25/02/2020
 
 #### Last update (README.md)
 27/05/2020
